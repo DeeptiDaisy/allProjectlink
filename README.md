@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+Project for my spritual Guru
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 👋 Hi, I’m A passionate full Stack JavaScript developer in expertise in Frontend Development
 
-## Available Scripts
+- 🌱 I’m working on mega project.
 
-In the project directory, you can run:
+- 👀  I Have Knowledge of React.js, Mongodb, HTML, css, Node.js, dotnet(C#), PostgreSQL, SQL server.
 
-### `npm start`
+- 🌱 Know about my experiences: I have 1 year of experience in Frontend Development.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Connect with me:
 
-### `npm test`
+[linkden](https://linkedin.com/in/deepti-dubey-83101220b)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Hashnode](https://deeptidubey.hashnode.dev/)
 
-### `npm run build`
+[Instagram](https://www.instagram.com/deepti_webdev/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Twitter](https://twitter.com/DeeptiD70928388)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Findcodder](https://www.findcoder.io/u/deepti)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+ <hr/>
+ 
+ Skills ⚒️
+ 
+ 
+ 
+ 
+>  [This is my portfolio website click on it to see](https://deeptiportfolio-websites.netlify.app/)
+ 
+About Me 🚀
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🎓 I’m working in Capgemini.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 👨‍💻 I am passionate about Web Dev, problem solving, Spirituality & I enjoy learning new things.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- ⚡ Fun fact:  I love reading and meditating.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+HTML CSS projects:-
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Acters website](https://github.com/DeeptiDaisy/Ineuron01)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Restaurent website](https://github.com/DeeptiDaisy/LcoProject02)
 
-### Code Splitting
+[Justice page website](https://github.com/DeeptiDaisy/Justice)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[Crush the comptetion](https://github.com/DeeptiDaisy/LcoProject04)
 
-### Analyzing the Bundle Size
+[Lets build better tomarrow Token app](https://github.com/DeeptiDaisy/LcoProject-05)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[Monstera](https://github.com/DeeptiDaisy/LcoProject-06)
 
-### Making a Progressive Web App
+[Wireless Headphones](https://github.com/DeeptiDaisy/Project-07)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[Web Design](https://github.com/DeeptiDaisy/WebDesign-08)
 
-### Advanced Configuration
+[Company website](https://github.com/DeeptiDaisy/Developer-page09)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[Interior Design](https://github.com/DeeptiDaisy/Interior_design)
 
-### Deployment
+[Hoisting website](https://github.com/DeeptiDaisy/Web-services-11)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[Empowering our business](https://github.com/DeeptiDaisy/Web-designing-12)
 
-### `npm run build` fails to minify
+[Codext one of the best system in SAAS](https://github.com/DeeptiDaisy/Project-13)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Creativity photography](https://github.com/DeeptiDaisy/LcoProject-14)
+
+[Portfolio Website](https://github.com/DeeptiDaisy/Lcoproject-15)
+
+Clone projects
+
+[Shopify clone](https://github.com/DeeptiDaisy/ShopifyClone)
+ 
+[Rode clone](https://github.com/DeeptiDaisy/RodeWebsite)
+
+
+JavaScript projects:-
+
+[Count Down](https://github.com/DeeptiDaisy/CountDown)
+
+[Qr code genrator](https://github.com/DeeptiDaisy/QRcodegenerator)
+
+[Password genrator](https://github.com/DeeptiDaisy/Password-genrator)
+
+[Accordian](https://github.com/DeeptiDaisy/Accordian)
+
+[Naming Conversion](https://github.com/DeeptiDaisy/Naming-Conversion)
+
+[Jokes Generator](https://github.com/DeeptiDaisy/Jokes-generator)
+
+[Bargarph application with json api](https://github.com/DeeptiDaisy/Bargraph)
+
+React project:-
+
+[Tiktoktoe](https://github.com/DeeptiDaisy/tiktoktoereactjs)
+
+[House buyer app](https://github.com/DeeptiDaisy/House-buyer-app)
+ 
+
