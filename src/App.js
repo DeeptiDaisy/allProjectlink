@@ -5,11 +5,15 @@ import About from "./component/About";
 import Services from "./component/Services";
 import Videos from "./component/Videos";
 import Contact from "./component/Contact"; 
-import Error from "./component/Error"
+//import Error from "./component/Error";
+import List from "./component/List";
+import Footer from "./component/Footer";
+
 
 const App=()=>{
   return(
 <>
+<List />
 <Routes>
 <Route path="/" element={<Home />}/> 
 <Route path="/about" element={<About/>}/> 
@@ -19,6 +23,7 @@ const App=()=>{
  
 </Routes>
 {/* <h1>App Component</h1> */}
+<Footer/>
 </>
   )
  }
