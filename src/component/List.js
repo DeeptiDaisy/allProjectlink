@@ -19,9 +19,9 @@ const List=()=>{
             <div className="list">
 <NavLink to="" className="listItem" activeClassName="activeItem">Home</NavLink>
 <NavLink to="/about" className="listItem" activeClassName="activeItem">About</NavLink>
-<NavLink to="/contact" className="listItem" activeClassName="activeItem">Contact</NavLink>
 <NavLink to="/videos" className="listItem" activeClassName="activeItem">Videos</NavLink>
-<NavLink to="/services" className="listItem" activeClassName="activeItem">Services</NavLink>
+<NavLink to="/events" className="listItem" activeClassName="activeItem">Events</NavLink>
+<NavLink to="/contact" className="listItem" activeClassName="activeItem">Contact</NavLink>
             </div>
         </nav>
         {/* <div className="icons">

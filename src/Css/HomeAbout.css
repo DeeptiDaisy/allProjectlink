@@ -44,5 +44,29 @@
 }
 .imgContainer img{
     width: 80%;
-    background-color: yellow;
+/* background-color: yellow; */
+}
+
+/* media query */
+@media screen and (max-width:900px){
+    html{
+     font-size: 13px;
+    } 
+    .mainSection{
+       flex-direction: column;
+       margin-top: 1em;
+    }
+    .contentBox{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .contentBox h1{
+        font-size: 2rem;
+    }
+    .contentBox p{
+        font-size: 1.1rem;
+    }
+    .imgContainer{
+        width: 80%;
+    }
 }

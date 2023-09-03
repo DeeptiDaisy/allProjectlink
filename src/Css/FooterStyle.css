@@ -2,7 +2,7 @@
     --mainColor: hwb(36 5% 2%);
 }
 footer{
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     background-color: var(--mainColor);
     width: 100%;
